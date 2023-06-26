@@ -10,8 +10,8 @@
       "32": "images/logo38.png",
       "48": "images/logo48.png"
    },
-   "manifest_version": 2,
+   "manifest_version": 3,
    "name": "股票小助手",
-   "permissions": [ "storage", "http://*.gtimg.cn/*" ],
+   "permissions": [ "storage", "http://*.gtimg.cn/*" , "https://*.gtimg.cn/*" ],
    "version": "1.9.1"
 }
